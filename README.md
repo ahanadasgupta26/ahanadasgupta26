@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahana Dasgupta
 - 👀 I’m interested in building innovative tech solutions
 - 🌱 I’m currently pursuing B.Tech in Computer Science
-- 💞️ I’m looking to collaborate with like minded people on amazing projects
+- 💞️ I’m looking to collaborate with like minded individuals regarding some amazing projects
 
 ## TECH STACKS
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
