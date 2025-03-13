@@ -20,4 +20,6 @@
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-##Github stats
+## Github Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahanadasgupta26&layout=compact&theme=radical)
