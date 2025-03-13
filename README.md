@@ -24,3 +24,8 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahanadasgupta26&show_icons=true&theme=merko) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahanadasgupta26&layout=compact&theme=merko)
+
+
+#### 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahana-dasgupta-332270284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
