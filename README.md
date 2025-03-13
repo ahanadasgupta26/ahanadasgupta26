@@ -1,3 +1,5 @@
+## About Me
+
 - 👋 Hi, I’m Ahana Dasgupta
 - 👀 I’m interested in building innovative tech solutions
 - 🌱 I’m currently pursuing B.Tech in Computer Science
