@@ -5,7 +5,7 @@
 - 🌱 I’m currently pursuing B.Tech in Computer Science
 - 💞️ I’m looking to collaborate with like minded individuals regarding some amazing projects
 
-## TECH STACKS
+## Tech Stacks
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
