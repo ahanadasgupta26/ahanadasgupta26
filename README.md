@@ -33,8 +33,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahanadasgupta26&theme=github-dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ahanadasgupta26&theme=dark)
-
 
 ## Connect with Me  
 
