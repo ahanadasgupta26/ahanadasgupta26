@@ -29,11 +29,12 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 
 
-## GitHub Stats
+## GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahanadasgupta26&show_icons=true&theme=merko)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahanadasgupta26&layout=compact&theme=merko)
+
 
 ## Connect with Me  
 
