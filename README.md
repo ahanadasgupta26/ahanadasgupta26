@@ -33,7 +33,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahanadasgupta26&theme=github-dark)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ahanadasgupta26&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahanadasgupta26&show_icons=true&theme=merko&cache_seconds=86400)
 
 
 ## Connect with Me  
