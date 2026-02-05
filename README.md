@@ -31,9 +31,7 @@
 
 ## GitHub Stats  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ahanadasgupta26&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahanadasgupta26&layout=compact&theme=merko)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahanadasgupta26&theme=github-dark)
 
 
 ## Connect with Me  
