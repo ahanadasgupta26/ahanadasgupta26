@@ -31,7 +31,7 @@
 
 ## GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahanadasgupta26&show_icons=true&theme=merko)
+![Stats](https://github-readme-stats.vercel.app/api?username=ahanadasgupta26&cache_seconds=86400)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahanadasgupta26&layout=compact&theme=merko)
 
