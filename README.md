@@ -2,10 +2,10 @@
 
 💻 B.Tech Computer Science student passionate about Data Engineering, Data Analysis, Backend Development, and AI-powered applications.
 
-🌱 Currently exploring Data Engineering, Cloud Technologies, AI Workflows, and Data Analytics.
-🚀 Interested in building scalable data pipelines, data-driven applications, and backend systems.
-📊 Enjoy transforming raw data into meaningful insights through analytics and visualization.
-🤝 Open to collaborating on impactful open-source and tech projects.
+-🌱 Currently exploring Data Engineering, Cloud Technologies, AI Workflows, and Data Analytics.
+-🚀 Interested in building scalable data pipelines, data-driven applications, and backend systems.
+-📊 Enjoy transforming raw data into meaningful insights through analytics and visualization.
+-🤝 Open to collaborating on impactful open-source and tech projects.
 
 ---
 
