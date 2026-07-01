@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahana Dasgupta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=1100&lines=Computer+Science+Undergraduate;Passionate+about+Data+Engineering%2C+Data+Analysis%2C+Software+Development%2C+and+AI-powered+Applications;Building+Scalable+Data+Pipelines+and+Data-Driven+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=950&lines=Computer+Science+Undergraduate;Data+Engineering+%26+Data+Analysis+Enthusiast;Software+Developer+with+an+Interest+in+AI;Building+Scalable+Data+Pipelines+and+Data-Driven+Solutions" alt="Typing SVG" />
 </p>
 
 ---
