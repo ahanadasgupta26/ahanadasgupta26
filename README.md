@@ -39,10 +39,6 @@
 ## 📈 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahanadasgupta26&theme=github-dark&hide_border=true)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahanadasgupta26/ahanadasgupta26/output/github-contribution-grid-snake-dark.svg" />
-</p>
 ---
 
 ## 🌐 Connect With Me
