@@ -15,15 +15,15 @@
 `Python` • `SQL` • `C` • `C++` • `JavaScript` • `TypeScript`
 
 ### Data Engineering & Analytics
-`PySpark` • `Apache Airflow` • `ETL Pipelines` • `Data Modeling` • `Pandas` • `NumPy`
+`PySpark` • `Apache Airflow` • `ETL Pipelines` • `Data Modeling` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Power BI` • `Tableau`
 
-`Matplotlib` • `Seaborn` • `Power BI` • `Tableau` • `Excel`
+`Excel`
 
 ### Cloud & Big Data
 
-`Azure Data Factory` • `Azure Data Lake` • `Azure Databricks` • `Azure Synapse Analytics`
+`Azure Data Factory` • `Azure Data Lake` • `Azure Databricks` • `Azure Synapse Analytics``AWS S3` • `AWS Glue` • `AWS Lambda`
 
-`AWS S3` • `AWS Glue` • `AWS Lambda` • `AWS Athena`
+`AWS Athena`
 
 ### Databases
 `Oracle SQL` • `MySQL` • `SQLite` • `Neo4j`
