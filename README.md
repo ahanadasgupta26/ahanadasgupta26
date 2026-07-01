@@ -18,7 +18,6 @@
 `PySpark` • `ETL Pipelines` • `Data Modeling` • `Pandas` • `NumPy` • `Power BI` • `Tableau` • `Excel`
 
 ### Cloud & Big Data
-### Cloud & Big Data
 
 **Azure:** `Data Factory` • `Data Lake` • `Databricks` • `Synapse Analytics`
 
