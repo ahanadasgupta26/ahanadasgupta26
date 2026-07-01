@@ -10,15 +10,6 @@
 - 🚀 Building **scalable data pipelines, data-driven applications, and software solutions**
 - 📊 Passionate about **analytics, visualization, and transforming data into actionable insights**
 - 🤝 Open to collaborating on **open-source projects and innovative tech solutions**
-
----
-
----
-
-- 🌱 Currently exploring **Cloud Technologies, AI Workflows, and Modern Data Engineering**
-- 🚀 Building **scalable data pipelines, data-driven applications, and software solutions**
-- 📊 Passionate about **analytics, visualization, and transforming data into actionable insights**
-- 🤝 Open to collaborating on **open-source projects and innovative tech solutions**
 ---
 
 ## 🛠️ Tech Stack
