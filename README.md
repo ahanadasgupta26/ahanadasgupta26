@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahana Dasgupta</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Data+Engineering+Enthusiast;Data+Analysis+Enthusiast;Software+Developer;Cloud+%26+Big+Data+Explorer;Building+Scalable+Data+Pipelines;AI+Workflow+Builder;Turning+Data+into+Insights+📊" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Data+Engineering+Enthusiast;Data+Analysis+Enthusiast;Software+Developer;Cloud+%26+Big+Data+Explorer;Building+Scalable+Data+Pipelines;AI+Workflow+Builder;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 </p>
 
 <p align="center">
-Computer Science undergraduate passionate about <b>Data Engineering</b>, <b>Data Analysis</b>, <b>Software Development</b>, and <b>AI-powered applications</b>.
+  <strong>Computer Science undergraduate</strong> passionate about <strong>Data Engineering</strong>, <strong>Data Analysis</strong>, <strong>Software Development</strong>, and <strong>AI-powered applications</strong>.
 </p>
-
 ---
 
 - 🌱 Currently exploring **Cloud Technologies, AI Workflows, and Modern Data Engineering**
