@@ -21,7 +21,7 @@
 
 ### Cloud & Big Data
 
-`Azure Data Factory` • `Azure Data Lake` • `Azure Databricks` • `Azure Synapse Analytics``AWS S3` • `AWS Glue` • `AWS Lambda`
+`Azure Data Factory` • `Azure Data Lake` • `Azure Databricks` • `Azure Synapse Analytics` • `AWS S3` • `AWS Glue` • `AWS Lambda`
 
 • `AWS Athena`
 
