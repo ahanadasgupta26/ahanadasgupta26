@@ -38,10 +38,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahanadasgupta26&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ahanadasgupta26&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahanadasgupta26&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## 🌐 Connect With Me
