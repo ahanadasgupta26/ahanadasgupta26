@@ -19,9 +19,9 @@
 
 ### Cloud & Big Data
 
-**Azure:** `Data Factory` • `Data Lake` • `Databricks` • `Synapse Analytics`
+`Azure Data Factory` • `Azure Data Lake` • `Azure Databricks` • `Azure Synapse Analytics`
 
-**AWS:** `S3` • `Glue` • `Lambda` • `Athena`
+`AWS S3` • `AWS Glue` • `AWS Lambda` • `AWS Athena`
 
 ### Databases
 `Oracle SQL` • `MySQL` • `SQLite` • `Neo4j`
