@@ -18,8 +18,11 @@
 `PySpark` • `ETL Pipelines` • `Data Modeling` • `Pandas` • `NumPy` • `Power BI` • `Tableau` • `Excel`
 
 ### Cloud & Big Data
-`Azure Data Factory` • `Azure Data Lake` • `Azure Databricks` • `Azure Synapse Analytics`
-`AWS S3` • `AWS Glue` • `AWS Lambda` • `AWS Athena`
+### Cloud & Big Data
+
+**Azure:** `Data Factory` • `Data Lake` • `Databricks` • `Synapse Analytics`
+
+**AWS:** `S3` • `Glue` • `Lambda` • `Athena`
 
 ### Databases
 `Oracle SQL` • `MySQL` • `SQLite` • `Neo4j`
