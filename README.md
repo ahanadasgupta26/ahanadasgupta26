@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahana Dasgupta</h1>
 
-<p align="center">
+<h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Data+Engineering+Enthusiast;Data+Analysis+%7C+Backend+Development;Building+Scalable+Data+Pipelines;Cloud+%7C+AI+Workflows+%7C+Automation;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Data+Engineering+Enthusiast;Data+Analyst;Backend+Developer;Cloud+%26+AI+Explorer;Building+Scalable+Data+Pipelines;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-</p>
+</h3>
 
-💻 B.Tech Computer Science student passionate about **Data Engineering, Data Analysis, Backend Development, and AI-powered applications.**
+💻 **B.Tech Computer Science student** passionate about **Data Engineering, Data Analysis, Backend Development, and AI-powered applications.**
 
 - 🌱 Currently exploring **Data Engineering, Cloud Technologies, AI Workflows, and Data Analytics.**
 - 🚀 Interested in building **scalable data pipelines, data-driven applications, and backend systems.**
