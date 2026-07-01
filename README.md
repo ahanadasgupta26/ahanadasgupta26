@@ -36,9 +36,9 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Contribution Activity
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahanadasgupta26&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahanadasgupta26&theme=github-dark&hide_border=true)
 ---
 
 ## 🌐 Connect With Me
