@@ -11,20 +11,11 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`Python` • `SQL` • `C` • `C++` • `JavaScript` • `TypeScript`
-
-**Data Engineering & Analytics:**  
-`PySpark` • `ETL Pipelines` • `Data Modeling` • `Pandas` • `NumPy` • `Power BI` • `Tableau` • `Excel`
-
-**Cloud & Big Data:**  
-`Azure Data Factory` • `Azure Data Lake` • `Azure Databricks` • `Azure Synapse Analytics` • `AWS S3` • `AWS Glue` • `AWS Lambda` • `AWS Athena`
-
-**Databases:**  
-`Oracle SQL` • `MySQL` • `SQLite` • `Neo4j`
-
-**Tools & Frameworks:**  
-`Git` • `GitHub` • `Flask` • `Streamlit` • `React.js` • `Next.js` • `n8n` • `Postman`
+- **Languages:** Python, SQL, C, C++, JavaScript, TypeScript
+- **Data Engineering & Analytics:** PySpark, ETL Pipelines, Data Modeling, Pandas, NumPy, Power BI, Tableau, Excel
+- **Cloud & Big Data:** Azure Data Factory, Azure Data Lake, Azure Databricks, Azure Synapse Analytics, AWS S3, AWS Glue, AWS Lambda, AWS Athena
+- **Databases:** Oracle SQL, MySQL, SQLite, Neo4j
+- **Tools & Frameworks:** Git, GitHub, Flask, Streamlit, React.js, Next.js, n8n, Postman
 
 ---
 
